@@ -2,4 +2,4 @@
 
 Spring & Hibernate for Beginners (includes Spring Boot) - Chad Darby Udemy Course
 
-A simple rest api written for study.
+A simple REST API written for study.
